@@ -1,0 +1,2 @@
+PyExecJs==1.5.1
+requests==2.22.0
